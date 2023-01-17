@@ -1,2 +1,2 @@
 # ProyectoFinalCurso
-Repositorio para la clase de C#
+Repositorio para el proyecto final de C#
