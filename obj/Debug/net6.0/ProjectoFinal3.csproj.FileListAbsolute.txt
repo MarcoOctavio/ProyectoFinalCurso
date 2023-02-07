@@ -1,0 +1,5 @@
+C:\Users\VENEGASM.CORP\source\repos\ProjectoFinal3\obj\Debug\net6.0\ProjectoFinal3.csproj.AssemblyReference.cache
+C:\Users\VENEGASM.CORP\source\repos\ProjectoFinal3\obj\Debug\net6.0\ProjectoFinal3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VENEGASM.CORP\source\repos\ProjectoFinal3\obj\Debug\net6.0\ProjectoFinal3.AssemblyInfoInputs.cache
+C:\Users\VENEGASM.CORP\source\repos\ProjectoFinal3\obj\Debug\net6.0\ProjectoFinal3.AssemblyInfo.cs
+C:\Users\VENEGASM.CORP\source\repos\ProjectoFinal3\obj\Debug\net6.0\ProjectoFinal3.csproj.CoreCompileInputs.cache
